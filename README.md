@@ -1,5 +1,5 @@
-# CARE-BERT
-CARE-BERT: Clickbait Detector using Self-attentive Network with Bidirectional Encoder Representations from Transformers
+# Click-BERT
+Click-BERT: Clickbait Detector with Bidirectional Encoder Representations from Transformers
 
 Course Project for EECS 498 NLP, Winter 2021
 
